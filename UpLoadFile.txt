@@ -1,0 +1,3 @@
+Git rm -r --cached dirname
+git commit -m "delete file"
+git push origin master
